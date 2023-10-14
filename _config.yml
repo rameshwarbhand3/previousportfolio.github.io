@@ -21,7 +21,7 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Amol                          # the main title
+title: Rameshwar                          # the main title
 
 tagline: Stories, lessons and notes
 
@@ -29,26 +29,26 @@ description: >-                        # used by seo meta and the atom feed
   Stories, lessons and notes
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://amolrv.github.io"
+url: "https://rameshwarbhand3.github.io"
 
 github:
-  username: amolrv             # change to your github username
+  username: rameshwar             # change to your github username
 
-twitter:
+#twitter:
   username: amol_vyawhare            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Amol Vyawhare
-  email: amol.vyawhare@outlook.com             # change to your email address
-  links:
+  name: Rameshwar Bhand
+  email: rameshwarbhand3@gmail.com             # change to your email address
+  #links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/amol_vyawhare      # change to your twitter homepage
-    - https://github.com/amolrv       # change to your github homepage
+    - https://github.com/rameshwarbhand3      # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/amolrv
-    - https://www.linkedin.com/in/amol
+    - https://www.linkedin.com/in/rameshwar-bhand/
 
 google_site_verification:               # fill in to your verification string
 
@@ -95,7 +95,7 @@ comments:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: amolrv/amolrv.github.io
+    repo: rameshwarbhand3/rameshwarbhand3.github.io
     issue_term:  title
   # Giscus options › https://giscus.app
   giscus:
