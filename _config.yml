@@ -34,8 +34,8 @@ url: "https://rameshwarbhand3.github.io"
 github:
   username: rameshwar             # change to your github username
 
-#twitter:
-  username: amol_vyawhare            # change to your twitter username
+twitter:
+  username: rameshwar_bhand            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,10 +44,10 @@ social:
   email: rameshwarbhand3@gmail.com             # change to your email address
   #links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/amol_vyawhare      # change to your twitter homepage
+    - https://twitter.com/rameshwar_bhand      # change to your twitter homepage
     - https://github.com/rameshwarbhand3      # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/amolrv
+    - https://www.facebook.com/rameshwarbhand3
     - https://www.linkedin.com/in/rameshwar-bhand/
 
 google_site_verification:               # fill in to your verification string
@@ -83,8 +83,7 @@ theme_mode:    #light|dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/14291758?v=4
-
+avatar: https://avatars.githubusercontent.com/u/110918026?s=400&u=8145b963793c94e1ed9579f860b042c094d4ffce&v=4
 # boolean type, the global switch for ToC in posts.
 toc: true
 
